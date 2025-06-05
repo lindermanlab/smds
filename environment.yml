@@ -1,0 +1,32 @@
+name: smds
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pip>=23.0
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - jupyter
+  - ipython
+  - seaborn
+  - tqdm
+  - pip:
+      - jax==0.4.35
+      - jaxlib==0.4.34
+      - optax
+      - dynamax
+      - torch
+      - torchvision
+      - torchaudio
+      - chex
+      - wandb
+      - pandas-profiling
+      - pynwb
+      - matplotlib
+      - seaborn
+      - tqdm
+      - memory-profiler
