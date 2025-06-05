@@ -1,2 +1,1 @@
-# smds
-Stiefel Manifold Dynamical Systems for Tracking Representational Drift
+# Stiefel Manifold Dynamical Systems for Tracking Representational Drift
