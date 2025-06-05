@@ -17,7 +17,7 @@ A **Stiefel Manifold Dynamical System (SMDS)** is a model designed to capture an
 
 This repository includes:
 
-- A Python package implementing the SMDS framework.  
+- A Python source code implementing the SMDS framework.  
 - A Jupyter notebook demonstrating how to sample data from an SMDS and subsequently re-fit an SMDS to the sampled data.  
 - An environment configuration file (`environment.yml`) listing all dependencies.
 
